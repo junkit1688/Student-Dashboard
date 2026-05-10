@@ -1,0 +1,10 @@
+{
+  "name": "StudyFlow",
+  "description": "A modern student productivity dashboard featuring task management, Pomodoro timer, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "productivity",
+    "dashboard",
+    "analytics"
+  ]
+}
